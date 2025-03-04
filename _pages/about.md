@@ -11,17 +11,46 @@ redirect_from:
 
 教育经历
 ======
-**2018.09-2022.06**   东北农业大学（211/双一流）	风景园林专业
+- **2018.09-2022.06** ： 东北农业大学（211/双一流)
+
+	风景园林专业；工学学士
+	
+	GPA 3.66/4.0；专业排名**5/178**；优秀毕业生 
+
+- **2022.08-2025.06** ： 中国科学院大学（双一流)
+
+	生物与医药专业；工学硕士
+	
+	GPA 3.81/4.0 
 
 
-
-Getting started
+出版物
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**2025年 **《横断山区国家重点保护野生植物物种多样性空间分布格局及关键驱动因子》在投；
+**2024年7月** 以第三作者在应用生态学报发表《地震扰动下四川省九寨沟县生态质量的时空变化及影响因素》，**已见刊**；
+**2022 年 2 月** 以第一作者在现代园艺期刊发表《邻里公园景观设计方法与实例分析——
+玛丽巴特莫公园与深湾街心公园功能分区及景观处理特点比较与分析》，**已见刊**；
+**2021 年 7 月**以第一作者在当代旅游期刊发表《哈尔滨红色旅游开发现状与宣传路径分
+析》，**已见刊**。
 
+个人荣誉
+======
+**2022 届** 东北农业大学“优秀毕业生”荣誉称号；
+ **2021 年**“建行杯”第七届黑龙江“互联网+”大学生创新创业大赛省级铜奖（两项）；
+ **2021 年**  第八届“播种杯”大学生课外学术科技作品竞赛校三等奖；
+**2021 年**  第三届校建造节暨“园艺杯”风景园林设计建造大赛三等奖；
+** 2021 年**  参与大学生创新创业训练计划国家级项目；
+**2020 年** 主持大学生创新创业训练计划省级项目
+**2020 年**  第三届“园艺杯”园艺产业园区设计大赛校奖；
+**2020 年**“创青春”大学生创业大赛校优秀奖；
+**2020 年**  寒假大学生“三下乡”社会实践校二等奖
+**2020-2021、2019-2020、2018-2019** 学年度国家励志奖学金及校“三好学生”称
+号；
+** 2020-2021、2019-2020** 学年度校“社会实践积极分子”称号；
+**2020-2021 年** 大学生“三下乡”社会实践院一等奖
+ **2019-2020** 学年度校社会实践奖学金；
+**2019 年**“中海达杯”四等水准测量大赛校二等奖；
+**2019 年** 大学生“三下乡”社会实践校二等奖兼全国大中专学生志愿者暑期“三下乡”社会实践活动优秀团队、省级优秀团队（20 强）；
+**2018 年** 寒假大学生“三下乡”社会实践院二等奖，2019 年大学生“三下乡”社会实
+践校三等奖。
 
